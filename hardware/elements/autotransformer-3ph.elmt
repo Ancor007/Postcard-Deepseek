@@ -1,0 +1,151 @@
+<definition height="190" version="0.90" link_type="simple" hotspot_y="49" type="element" hotspot_x="54" width="180">
+    <uuid uuid="{9979ecd4-139f-4d90-8d49-7d5e9b2349ac}"/>
+    <names>
+        <name lang="ar">مُحوّل ذاتي ثلاثي الأوجه</name>
+        <name lang="de">Spartransformator Drehstrom</name>
+        <name lang="nl">driefase autotransformator</name>
+        <name lang="pl">Autotransformator trójfazowy</name>
+        <name lang="en">Three-phase autotransducer</name>
+        <name lang="fr">Autotransformateur triphasé</name>
+        <name lang="it">Autotrasformatore trifase</name>
+        <name lang="el">Αυτομετασχηματιστής τριφασικός</name>
+        <name lang="ca">Autotransductor trifàsic</name>
+        <name lang="cs">Třífázový autotransformátor</name>
+        <name lang="es">Autotransformador trifásico</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text color="#000000" text="38" x="57" y="128" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="46" x="-23" y="128" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="45" x="-12" y="128" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="44" x="-2" y="128" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="43" x="8" y="128" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="42" x="18" y="128" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="41" x="28" y="128" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="40" x="37" y="128" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="39" x="47" y="128" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="47" x="-33" y="128" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="37" x="67" y="128" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="36" x="77" y="128" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="35" x="87" y="128" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="34" x="97" y="128" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="33" x="107" y="128" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="27" x="108" y="72" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="30" x="108" y="102" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="22" x="108" y="22" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="49" x="-44" y="122" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="50" x="-44" y="112" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="51" x="-44" y="102" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="52" x="-44" y="92" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="53" x="-44" y="82" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="54" x="-44" y="72" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="55" x="-44" y="62" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="56" x="-44" y="52" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="57" x="-44" y="42" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="58" x="-44" y="32" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="59" x="-44" y="22" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="60" x="-44" y="12" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="61" x="-44" y="2" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="62" x="-44" y="-8" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="63" x="-44" y="-18" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="29" x="108" y="92" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="18" x="108" y="-18" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="9" x="39" y="-35" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="31" x="108" y="112" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="28" x="108" y="82" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="24" x="108" y="42" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="26" x="108" y="62" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="25" x="108" y="52" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="23" x="108" y="32" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="19" x="108" y="-8" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="21" x="108" y="12" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="20" x="108" y="2" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="11" x="57" y="-35" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="10" x="47" y="-35" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="5" x="-1" y="-35" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="8" x="29" y="-35" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="17" x="108" y="-28" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="16" x="107" y="-35" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="2" x="-31" y="-35" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="14" x="87" y="-35" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="12" x="67" y="-35" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="7" x="19" y="-35" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="64" x="-44" y="-29" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="3" x="-21" y="-35" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="4" x="-11" y="-35" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="13" x="77" y="-35" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="15" x="97" y="-35" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="6" x="9" y="-35" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="CH311L" x="-20" y="30" rotation="0" font="Liberation Sans,24,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="32" x="108" y="122" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <text color="#000000" text="48" x="-42" y="128" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <rect rx="0" height="172" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-45" y="-42" ry="0" width="160"/>
+        <text color="#000000" text="1" x="-41" y="-35" rotation="0" font="Liberation Sans,4,-1,0,50,0,0,0,0,0,Regular"/>
+        <terminal x="20" y="-45" uuid="{50ddd47e-32c7-4974-bb02-c0900432b263}" type="Generic" name="" orientation="n"/>
+        <terminal x="-30" y="135" uuid="{5b2daca0-a9a9-448c-89b6-1836ad7c5ade}" type="Generic" name="" orientation="s"/>
+        <terminal x="-50" y="110" uuid="{5afba702-6892-4ba3-ab3b-e6fce4291917}" type="Generic" name="" orientation="w"/>
+        <terminal x="10" y="-45" uuid="{f6c317d6-7fac-4cf6-8712-d182b8582b62}" type="Generic" name="" orientation="n"/>
+        <terminal x="-20" y="-45" uuid="{1511adca-8f00-4004-9c0e-4ac08ccb1fc4}" type="Generic" name="" orientation="n"/>
+        <terminal x="100" y="-45" uuid="{82c6617a-d3a3-47e3-9660-557854977085}" type="Generic" name="" orientation="n"/>
+        <terminal x="30" y="-45" uuid="{a460e40f-c512-49b2-ac93-1a1f970a3173}" type="Generic" name="" orientation="n"/>
+        <terminal x="-10" y="-45" uuid="{238320d3-7123-4d0a-b141-8e11940e676e}" type="Generic" name="" orientation="n"/>
+        <terminal x="40" y="-45" uuid="{fa1452b9-968a-4573-b495-fb3f0e1c47c3}" type="Generic" name="" orientation="n"/>
+        <terminal x="110" y="-45" uuid="{4ab17285-dc17-4b02-be92-f998dcda475e}" type="Generic" name="" orientation="n"/>
+        <terminal x="80" y="-45" uuid="{e5aa1873-db9f-47fa-b6e8-da1fed16c27c}" type="Generic" name="" orientation="n"/>
+        <terminal x="120" y="80" uuid="{41050145-1e4b-4b04-9b27-a482e971339a}" type="Generic" name="" orientation="e"/>
+        <terminal x="-50" y="60" uuid="{670d9125-0141-4149-b3f4-ca39b5573311}" type="Generic" name="" orientation="w"/>
+        <terminal x="120" y="0" uuid="{29d6156c-bddc-4941-92bc-37298749135e}" type="Generic" name="" orientation="e"/>
+        <terminal x="90" y="135" uuid="{5295edff-b12c-45c0-bb57-ba7de5a348d6}" type="Generic" name="" orientation="s"/>
+        <terminal x="30" y="135" uuid="{889b16f7-e778-48e3-95b5-91d4ac4f0d16}" type="Generic" name="" orientation="s"/>
+        <terminal x="70" y="135" uuid="{bd2ae90e-51f4-44f2-8d6a-f1be14abdc2c}" type="Generic" name="" orientation="s"/>
+        <terminal x="120" y="70" uuid="{b9646370-7257-459b-8bfe-208e216c1dfe}" type="Generic" name="" orientation="e"/>
+        <terminal x="60" y="135" uuid="{0346b923-58e3-431e-ad97-5ac93829463a}" type="Generic" name="" orientation="s"/>
+        <terminal x="50" y="135" uuid="{c849f20d-cdd3-468b-a68a-c4fed8a076d1}" type="Generic" name="" orientation="s"/>
+        <terminal x="-50" y="50" uuid="{6e363966-4327-4fd3-bec9-17e2cf83a3d2}" type="Generic" name="" orientation="w"/>
+        <terminal x="-20" y="135" uuid="{9e92ebaa-9b55-41ed-a97e-9ef64cb964d3}" type="Generic" name="" orientation="s"/>
+        <terminal x="0" y="-45" uuid="{6a4d6960-6d85-46a9-935a-06c821553806}" type="Generic" name="" orientation="n"/>
+        <terminal x="-50" y="120" uuid="{b2c1960f-8304-40aa-9cdb-1d65e4ff6132}" type="Generic" name="" orientation="w"/>
+        <terminal x="120" y="-30" uuid="{83c396e1-b112-4c82-9c81-57289fe28469}" type="Generic" name="" orientation="e"/>
+        <terminal x="40" y="135" uuid="{f8ff11ad-5abc-46e1-bf6b-f5587a3989d1}" type="Generic" name="" orientation="s"/>
+        <terminal x="-50" y="30" uuid="{7d094601-657b-4949-a732-661bad9c0024}" type="Generic" name="" orientation="w"/>
+        <terminal x="-50" y="100" uuid="{38a76ecf-dc90-447c-a3cf-ad11c3087a27}" type="Generic" name="" orientation="w"/>
+        <terminal x="60" y="-45" uuid="{085bde0a-feb9-4f02-9d3b-5ec5e1c40a81}" type="Generic" name="" orientation="n"/>
+        <terminal x="110" y="135" uuid="{a1e53aae-c278-43b3-a19e-5c781cda05cb}" type="Generic" name="" orientation="s"/>
+        <terminal x="-10" y="135" uuid="{6f45759f-8d50-465f-b443-5f513fdeead5}" type="Generic" name="" orientation="s"/>
+        <terminal x="120" y="20" uuid="{86163cd2-7601-4a68-8868-5eae0b8dadd6}" type="Generic" name="" orientation="e"/>
+        <terminal x="80" y="135" uuid="{8cf83ddd-99f2-46f8-83b9-f37ba383fc9c}" type="Generic" name="" orientation="s"/>
+        <terminal x="10" y="135" uuid="{a95cb102-f4d6-41bd-88cf-563e722a6f0a}" type="Generic" name="" orientation="s"/>
+        <terminal x="20" y="135" uuid="{7b0e45db-fe33-44e0-8c49-ff2923906fe3}" type="Generic" name="" orientation="s"/>
+        <terminal x="-50" y="40" uuid="{7942d7fc-aa72-483d-bfd3-be0f6e0abd72}" type="Generic" name="" orientation="w"/>
+        <terminal x="-50" y="-20" uuid="{f475aa24-5a7e-4ea2-9c67-1fc1ff97d83d}" type="Generic" name="" orientation="w"/>
+        <terminal x="120" y="40" uuid="{f132a561-4ce2-4811-a9c4-3ba10aee7d3f}" type="Generic" name="" orientation="e"/>
+        <terminal x="-40" y="135" uuid="{72507ba3-2593-4407-8fbe-5ef05c657c77}" type="Generic" name="" orientation="s"/>
+        <terminal x="-50" y="0" uuid="{f2d84ab2-3ed3-450c-ac66-f4978757bbc1}" type="Generic" name="" orientation="w"/>
+        <terminal x="120" y="90" uuid="{318d9a5f-8b7c-4694-8e8d-d7c10b58b5d9}" type="Generic" name="" orientation="e"/>
+        <terminal x="-50" y="80" uuid="{899c1b38-0c4f-438d-8cd0-bd08a1c29aa4}" type="Generic" name="" orientation="w"/>
+        <terminal x="120" y="120" uuid="{9881ec1c-30e6-4423-aa00-75099738cf60}" type="Generic" name="" orientation="e"/>
+        <terminal x="120" y="-10" uuid="{d813acac-3b2a-4a6d-be4b-a37754908950}" type="Generic" name="" orientation="e"/>
+        <terminal x="-50" y="-30" uuid="{0bd78b0b-6a61-445f-96be-f01c4d21377a}" type="Generic" name="" orientation="w"/>
+        <terminal x="100" y="135" uuid="{3e22ae63-4301-4236-bd0e-75e60343b4bd}" type="Generic" name="" orientation="s"/>
+        <terminal x="-50" y="10" uuid="{57ec2ac7-6605-4221-be92-5872116e82db}" type="Generic" name="" orientation="w"/>
+        <terminal x="-50" y="-10" uuid="{2886a6cf-7877-4015-8640-4b4f0b32f5af}" type="Generic" name="" orientation="w"/>
+        <terminal x="120" y="-20" uuid="{d2fe2831-b45e-4f4a-9cc7-55348fd86408}" type="Generic" name="" orientation="e"/>
+        <terminal x="120" y="10" uuid="{5a7ff389-4b57-4caa-849e-fa5f3696f145}" type="Generic" name="" orientation="e"/>
+        <terminal x="120" y="100" uuid="{66dc5f7b-72d3-44fd-9e9b-7da71783039b}" type="Generic" name="" orientation="e"/>
+        <terminal x="120" y="30" uuid="{75aefff3-8c1b-451e-b8d3-6b7f37c5a042}" type="Generic" name="" orientation="e"/>
+        <terminal x="50" y="-45" uuid="{9b7f5e43-39fe-4711-b732-d5d1b5ce99b4}" type="Generic" name="" orientation="n"/>
+        <terminal x="120" y="60" uuid="{4a9ba6cf-3d84-4637-aafd-31dd0f089dd7}" type="Generic" name="" orientation="e"/>
+        <terminal x="70" y="-45" uuid="{0c270fc6-1661-44cc-9843-6d9972d54e65}" type="Generic" name="" orientation="n"/>
+        <terminal x="-40" y="-45" uuid="{341b3376-dbd3-4147-9462-56baf2c72820}" type="Generic" name="" orientation="n"/>
+        <terminal x="-30" y="-45" uuid="{a60e0104-174e-41e8-b0b2-4cbfa98b35e6}" type="Generic" name="" orientation="n"/>
+        <terminal x="120" y="110" uuid="{fbf7e999-a3a6-4318-b49d-d6aae56c0594}" type="Generic" name="" orientation="e"/>
+        <terminal x="-50" y="20" uuid="{de0f4559-1945-43a0-b218-b18734967988}" type="Generic" name="" orientation="w"/>
+        <terminal x="120" y="50" uuid="{af4cbcc3-8e14-49c2-acdd-f36111b150f7}" type="Generic" name="" orientation="e"/>
+        <terminal x="90" y="-45" uuid="{d3b23ddb-5f54-43f0-8b79-a178bc19864b}" type="Generic" name="" orientation="n"/>
+        <terminal x="-50" y="90" uuid="{19f1c9ed-af52-4826-954a-27b89afaab39}" type="Generic" name="" orientation="w"/>
+        <terminal x="0" y="135" uuid="{e484eb05-2d25-4818-a52a-c843e028c42c}" type="Generic" name="" orientation="s"/>
+        <terminal x="-50" y="70" uuid="{e111e8c3-4ace-498c-ba37-256ed191ff75}" type="Generic" name="" orientation="w"/>
+    </description>
+</definition>
